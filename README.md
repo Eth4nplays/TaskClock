@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/8e80fda9-8162-4f5f-a764-15f2f2d4db37" width=30% height=30%>
+
 # TaskClock
 
 [![Made with - Flutter](https://img.shields.io/static/v1?label=Made+with&message=Flutter&color=1c8aeb)](https://flutter.dev) [![TaskClock - Website](https://img.shields.io/badge/TaskClock-Website-f0ca73)](https://eth4nplays.wixstudio.com/taskclock)
