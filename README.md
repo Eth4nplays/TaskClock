@@ -1,4 +1,7 @@
 # TaskClock
+
+[![Made with - Flutter](https://img.shields.io/static/v1?label=Made+with&message=Flutter&color=1c8aeb)](https://)
+
 ## TaskClock is a smart scheduling app designed to help students manage their study time efficiently. It features AI-powered scheduling, MCQ-based performance tracking, and adaptive study plans.
 
 ![TC Win](https://github.com/user-attachments/assets/78e7afb0-b7f4-43e5-af9c-f13462e857b3)
