@@ -17,4 +17,4 @@
 
 ## Installation
 
-- Release is coming soon.
+- Run APK or Installer and follow the instructions.
