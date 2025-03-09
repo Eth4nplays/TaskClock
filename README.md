@@ -2,7 +2,7 @@
 
 # TaskClock
 
-[![Made with - Flutter](https://img.shields.io/static/v1?label=Made+with&message=Flutter&color=1c8aeb)](https://flutter.dev) [![TaskClock - Website](https://img.shields.io/badge/TaskClock-Website-f0ca73)](https://eth4nplays.wixstudio.com/taskclock) ![Static Badge](https://img.shields.io/badge/Version-v1.1.2-alpha?color=7DDA58&link=https%3A%2F%2Fgithub.com%2FEth4nplays%2FTaskClock%2Freleases)
+[![Made with - Flutter](https://img.shields.io/static/v1?label=Made+with&message=Flutter&color=1c8aeb)](https://flutter.dev) [![TaskClock - Website](https://img.shields.io/badge/TaskClock-Website-f0ca73)](https://eth4nplays.wixstudio.com/taskclock) [![Static Badge](https://img.shields.io/badge/Version-v1.1.2-alpha?color=7DDA58&link=https%3A%2F%2Fgithub.com%2FEth4nplays%2FTaskClock%2Freleases)](https://github.com/Eth4nplays/TaskClock/releases)
 
 ## TaskClock is a smart scheduling app designed to help students manage their study time efficiently. It features AI-powered scheduling, MCQ-based performance tracking, and adaptive study plans.
 
