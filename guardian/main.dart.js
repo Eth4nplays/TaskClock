@@ -85281,7 +85281,7 @@ if(b.x.length!==0){s=A.es(10)
 r=p?r.k2:q
 o.push(A.eg(c,A.d1(A.b([A.bJ(b.z+"'s Weak Subjects",c,c,c,A.di(c,c,c,c,c,c,c,c,c,c,c,18,c,c,B.aP,c,c,!0,c,c,c,c,c,c,c,c),c,c),B.bp,A.avr(new A.a63(b),b.x.length,c,!0)],h),B.D,B.V,B.P),B.t,c,new A.cB(r,c,c,s,c,c,B.Z),c,c,B.cv,450))}s=A.Oo(A.d1(o,B.D,B.aQ,B.P),c,B.aI)}return A.uo(a0,A.f3(s,c,c),c)}}
 A.a6_.prototype={
-$1(a){return A.aul(A.b([A.qb(B.Tg,new A.a5Z(a),null)],t.p),B.T7,B.Td)},
+$1(a){return A.aul(A.b([A.qb(B.Tg,new A.a5Z(a),null)],t.p),B.T9,B.Td)},
 $S:98}
 A.a5Z.prototype={
 $0(){A.i3(this.a,!1).Ay(null)
@@ -85506,7 +85506,7 @@ p=A.es(10)
 o=i.ax
 n=o.p4
 o=n==null?o.k2:n
-q.push(A.eg(l,A.d1(A.b([B.T8,A.Oo(A.iY(A.b([A.bJ(m.x,l,l,l,A.di(l,l,l,l,l,l,l,l,l,l,l,17,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),l,l),B.Nz,A.a3f(B.kq,new A.aqf(a),l)],r),B.D,B.V,B.P,l),l,B.aN)],r),B.ct,B.V,B.P),B.t,l,new A.cB(o,l,l,p,l,l,B.Z),l,l,B.cv,1/0))
+q.push(A.eg(l,A.d1(A.b([B.T7,A.Oo(A.iY(A.b([A.bJ(m.x,l,l,l,A.di(l,l,l,l,l,l,l,l,l,l,l,17,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),l,l),B.Nz,A.a3f(B.kq,new A.aqf(a),l)],r),B.D,B.V,B.P,l),l,B.aN)],r),B.ct,B.V,B.P),B.t,l,new A.cB(o,l,l,p,l,l,B.Z),l,l,B.cv,1/0))
 q.push(B.bp)
 q.push(B.Tc)
 q.push(B.bp)
@@ -85658,7 +85658,7 @@ r=A.S(a).ax
 q=r.p4
 r=q==null?r.k2:q
 q=t.p
-q=A.d1(A.b([B.NB,B.T9,B.NS,A.eg(p,A.d1(A.b([o.Lk(a,"Log In",new A.tB(p)),B.bS,o.Ci(a,"Sign Up",new A.uD(p),!1),B.bS,o.Lm(a)],q),B.D,B.aQ,B.P),B.t,p,new A.cB(r,p,p,B.zX,p,p,B.Z),s.a.b*0.55,p,B.DG,1/0)],q),B.D,B.V,B.P)
+q=A.d1(A.b([B.NB,B.T8,B.NS,A.eg(p,A.d1(A.b([o.Lk(a,"Log In",new A.tB(p)),B.bS,o.Ci(a,"Sign Up",new A.uD(p),!1),B.bS,o.Lm(a)],q),B.D,B.aQ,B.P),B.t,p,new A.cB(r,p,p,B.zX,p,p,B.Z),s.a.b*0.55,p,B.DG,1/0)],q),B.D,B.V,B.P)
 o=q}return A.f3(o,p,p)},
 $S:556}
 A.aiO.prototype={
@@ -91593,10 +91593,10 @@ B.T4=new A.d_("Notice",null,B.kp,B.bC,null,null,null,null,null)
 B.T5=new A.d_("Are you sure you want to log out?",null,null,null,null,null,null,null,null)
 B.P_=new A.m(!0,null,null,null,null,null,32,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.T6=new A.d_("Welcome to TaskClock Guardian!",null,B.P_,B.bC,null,null,null,null,null)
-B.T7=new A.d_("XPs are experince points that your child can earn by doing assessments. \nYour child's XP will be reset every month, and will be used to compare with the past month's XP to see your child's progress. \n\nIn an assessment, your child can earn 1 XP for every question they answer correctly. ",null,null,null,null,null,null,null,null)
 B.Rg=new A.m(!0,null,null,null,null,null,14,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.T8=new A.d_("Logged in as:",null,B.Rg,null,null,null,null,null,null)
-B.T9=new A.d_("Welcome to TaskClock Guardian!",null,B.kp,B.bC,null,null,null,null,null)
+B.T7=new A.d_("Logged in as:",null,B.Rg,null,null,null,null,null,null)
+B.T8=new A.d_("Welcome to TaskClock Guardian!",null,B.kp,B.bC,null,null,null,null,null)
+B.T9=new A.d_("XPs are experince points that your child can earn by doing assessments. \nYour child's XP will be reset every month, and will be used to compare with the past month's XP to see your child's progress. \nThis is the total amount of XP you have earned so far this month. \n\nIn an assessment, your child can earn 1 XP for every question they answer correctly. ",null,null,null,null,null,null,null,null)
 B.Ta=new A.d_("Cancel",null,null,null,null,null,null,null,null)
 B.Tb=new A.d_("No schedule generated yet.",null,B.ko,B.bC,null,null,null,null,null)
 B.PA=new A.m(!0,null,null,null,null,null,18,B.aP,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
