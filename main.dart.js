@@ -120656,7 +120656,7 @@ return A.p(o.C_(a,"Short simple 1 sentence explanation why "+b.r+" is correct fo
 case 2:if(q.c!=null&&a<o.db.length)q.P(new A.aZB(q,a,o))
 return A.v(null,r)}})
 return A.w($async$F4,r)},
-apH(a){var s,r=a.a+"-"+B.c.gv(a.b),q=this.c
+apH(a){var s,r=a.b+"\nA) "+a.c+"\nB) "+a.d+"\nC) "+a.e+"\nD) "+a.f+"\nAnswer: "+a.r,q=this.c
 q.toString
 s=A.ch(q,!1,t.O)
 this.P(new A.aZo(B.b.n(s.ch,r),s,r))},
@@ -120765,37 +120765,41 @@ if(this.a)s.u5(r)
 else s.zt(r)},
 $S:0}
 A.aZG.prototype={
-$2(a,b){var s,r,q,p,o,n,m,l,k,j,i,h=null,g=this.a,f=g.e
-if(b===f.length)return B.i6
-s=f[b]
-r=g.w.Y(0,b)
-f=g.y.h(0,b)
-q=f===!0
-f=s.b
-p=B.c.gv(f)
-o=B.b.n(this.b.ch,s.a+"-"+p)
-p=A.cj(20)
-n=this.c
-m=n.ax
-l=m.to
-if(l==null){l=m.q
-if(l==null)l=m.k3}l=l.iS(0.5)
-k=m.p2
-if(k==null)k=m.k2
-f=A.dq(new A.q9(""+(b+1)+". "+f,!1,h),1)
-j=o?B.ri:B.rj
-i=t.p
-j=A.b([A.bR(A.b([f,A.ei(h,h,h,A.cF(j,o?m.b:h,h,h),h,h,new A.aZD(g,s),h,h,h,h),A.ei(h,h,h,B.rk,h,h,new A.aZE(g,s),h,h,h,h)],i),B.an,B.m,B.l,0,h,h),B.aG,g.DE(b,s,"A",s.c),g.DE(b,s,"B",s.d),g.DE(b,s,"C",s.e),g.DE(b,s,"D",s.f)],i)
-if(r){g=A.Xw(new A.aZF(g,b,q,s,n),t.O)
-f=q?B.ka:B.mQ
-n=m.a===B.am
-if(n)m=q?B.d7:B.cM
-else m=q?B.h4:B.h3
-m=A.cF(f,m,h,20)
-f=q?"Correct!":"Correct: "+s.r
-if(n)n=q?B.d7:B.cM
-else n=q?B.h4:B.h3
-j.push(A.b4(A.b([B.O6,A.b4(A.b([g,B.dC,new A.dw(B.l8,h,h,A.bR(A.b([m,B.tZ,A.ae(f,h,h,h,h,A.cu(h,h,n,h,h,h,h,h,h,h,h,14,h,h,h,h,h,!0,h,h,h,h,h,h,h,h),h,h,h)],i),B.k,B.m,B.ah,0,h,h),h)],i),B.an,B.m,B.l,0,B.r)],i),B.k,B.m,B.l,0,B.r))}return new A.dw(B.a0,h,h,new A.dD(B.p3,A.WS(new A.aK(B.aI,A.hO(A.b4(j,B.an,B.m,B.l,0,B.r),h,h,h,h,h,B.a4),h),h,k,0,B.qv,new A.dj(p,new A.bb(l,1,B.E,-1))),h),h)},
+$2(a0,a1){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c=null,b=this.a,a=b.e
+if(a1===a.length)return B.i6
+s=a[a1]
+r=b.w.Y(0,a1)
+a=b.y.h(0,a1)
+q=a===!0
+a=s.b
+p=s.c
+o=s.d
+n=s.e
+m=s.f
+l=s.r
+k=B.b.n(this.b.ch,a+"\nA) "+p+"\nB) "+o+"\nC) "+n+"\nD) "+m+"\nAnswer: "+l)
+j=A.cj(20)
+i=this.c
+h=i.ax
+g=h.to
+if(g==null){g=h.q
+if(g==null)g=h.k3}g=g.iS(0.5)
+f=h.p2
+if(f==null)f=h.k2
+a=A.dq(new A.q9(""+(a1+1)+". "+a,!1,c),1)
+e=k?B.ri:B.rj
+d=t.p
+m=A.b([A.bR(A.b([a,A.ei(c,c,c,A.cF(e,k?h.b:c,c,c),c,c,new A.aZD(b,s),c,c,c,c),A.ei(c,c,c,B.rk,c,c,new A.aZE(b,s),c,c,c,c)],d),B.an,B.m,B.l,0,c,c),B.aG,b.DE(a1,s,"A",p),b.DE(a1,s,"B",o),b.DE(a1,s,"C",n),b.DE(a1,s,"D",m)],d)
+if(r){b=A.Xw(new A.aZF(b,a1,q,s,i),t.O)
+a=q?B.ka:B.mQ
+p=h.a===B.am
+if(p)o=q?B.d7:B.cM
+else o=q?B.h4:B.h3
+o=A.cF(a,o,c,20)
+a=q?"Correct!":"Correct: "+l
+if(p)p=q?B.d7:B.cM
+else p=q?B.h4:B.h3
+m.push(A.b4(A.b([B.O6,A.b4(A.b([b,B.dC,new A.dw(B.l8,c,c,A.bR(A.b([o,B.tZ,A.ae(a,c,c,c,c,A.cu(c,c,p,c,c,c,c,c,c,c,c,14,c,c,c,c,c,!0,c,c,c,c,c,c,c,c),c,c,c)],d),B.k,B.m,B.ah,0,c,c),c)],d),B.an,B.m,B.l,0,B.r)],d),B.k,B.m,B.l,0,B.r))}return new A.dw(B.a0,c,c,new A.dD(B.p3,A.WS(new A.aK(B.aI,A.hO(A.b4(m,B.an,B.m,B.l,0,B.r),c,c,c,c,c,B.a4),c),c,f,0,B.qv,new A.dj(j,new A.bb(g,1,B.E,-1))),c),c)},
 $S:807}
 A.aZD.prototype={
 $0(){return this.a.apH(this.b)},
